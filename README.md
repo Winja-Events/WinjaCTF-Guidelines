@@ -18,6 +18,7 @@ For every challenge, following supporting files should be created:
     * Difficulty level
     * Category name
 4. **blog.md** should contain the challenge writeup
+5. **deploy.md** should contain challenge deployment steps (if applicable)
 
 ## General Guidelines
 
